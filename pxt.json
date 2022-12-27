@@ -1,11 +1,12 @@
 {
-    "name": "Test",
+    "name": "TestLights",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "scrollbit": "github:pimoroni/pxt-scrollbit#v0.0.7"
+        "scrollbit": "github:pimoroni/pxt-scrollbit#v0.0.7",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
     },
     "files": [
         "main.blocks",
